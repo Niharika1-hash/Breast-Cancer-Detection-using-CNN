@@ -1,1 +1,1 @@
-# Breast-Cancer-Detection-using-CNN
+# Breast-Cancer-Detection-using-Machine-Learning
